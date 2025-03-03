@@ -1,0 +1,78 @@
+1.
+Departure: LAX (Los Angeles International Airport)
+Destination: JFK (John F. Kennedy International Airport)
+Flight: AA101
+Departure Time: 2024-02-01T08:00
+Arrival Time: 2024-02-01T16:30
+
+2.
+Layover: JFK
+Departure: JFK
+Destination: LHR (London Heathrow Airport)
+Flight: BA103
+Departure Time: 2024-02-02T09:45
+Arrival Time: 2024-02-02T22:00
+
+3.
+Layover: LHR
+Departure: LHR
+Destination: CDG (Charles de Gaulle Airport, Paris)
+Flight: AF123
+Departure Time: 2024-02-03T08:30
+Arrival Time: 2024-02-03T10:30
+Layover: CDG
+
+4.
+Departure: CDG
+Destination: DXB (Dubai International Airport)
+Flight: EK789
+Departure Time: 2024-02-03T14:15
+Arrival Time: 2024-02-03T23:45
+
+5.
+Layover: DXB
+Departure: DXB
+Destination: SIN (Singapore Changi Airport)
+Flight: SQ456
+Departure Time: 2024-02-04T03:30
+Arrival Time: 2024-02-04T15:00
+
+6.
+Layover: SIN
+Departure: SIN
+Destination: SYD (Sydney Kingsford Smith Airport)
+Flight: QF32
+Departure Time: 2024-02-05T09:15
+Arrival Time: 2024-02-05T21:30
+
+7.
+Layover: SYD
+Departure: SYD
+Destination: NRT (Narita International Airport, Tokyo)
+Flight: JL771
+Departure Time: 2024-02-06T05:45
+Arrival Time: 2024-02-06T15:00
+
+8.
+Layover: NRT
+Departure: NRT
+Destination: HKG (Hong Kong International Airport)
+Flight: CX888
+Departure Time: 2024-02-07T07:30
+Arrival Time: 2024-02-07T13:45
+
+9.
+Layover: HKG
+Departure: HKG
+Destination: ICN (Incheon International Airport, Seoul)
+Flight: OZ202
+Departure Time: 2024-02-08T01:00
+Arrival Time: 2024-02-08T06:30
+
+10.
+Layover: ICN
+Departure: ICN
+Destination: LAX
+Flight: KE11
+Departure Time: 2024-02-08T10:15
+Arrival Time: 2024-02-08T06:30

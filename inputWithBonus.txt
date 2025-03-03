@@ -1,0 +1,42 @@
+
+Hello! This is text file to check bonuses
+
+#DDD ##DDDD - no that code in lookup. It does not convert
+*#DDD *##DDDD - no that code in lookup. It does not convert
+
+TIME and DATES 
+D(2022-05-09T08:07Z)
+D(2024-11-18T08:07) - malformed (no Z or 02:00)
+D(2003-01-04T08:07Z) - My birthday :)
+T12(2069-04-24T19:18-02:00)
+T12(2080-05-04T14:54Z)
+T12(1980-02-17T03:30+11:0) - malformed, offset is 11:0, want 11:00
+T12(2029-09-04T03:09Z)
+T24(2032-09-31T04:08+13:00) - malformed, we have no 31th day in September
+T24(2084-13-13T17:54Z) - malformed, 13 month
+T24(2024-07-23T15:29-11:00)
+T24(2042-09-01T21:43Z)
+
+Your flight departs from #ORD, and your destination is ##RKSI. - Airport names
+Your flight departs from #PEK, and your destination is ##KLAX. - Airport names
+
+Your flight departs from *#HAJ, and your destination is *##EDDW. - City names(municipality)
+Your flight departs from #HAJ, and your destination is ##EDDW. - Airport names
+
+Your flight departs from  #AHJ at T12(2029-09-04T03:09Z) and arrives to #AMS at T24(2042-09-01T21:43Z) D(2003-01-04T08:07Z).
+
+3 spaces   .
+4 spaces    .
+2 tabs      .
+3 tabs          .
+3 blink lines
+
+
+
+end
+4 blink lines
+
+
+
+
+end 

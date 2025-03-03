@@ -1,0 +1,8 @@
+Your flight departs from #HAJ, and your destination is ##EDDW.
+
+
+Your flight departs from *#HAJ, and your destination is *##EDDW.
+T12(2069-04-24T19:18-02:00)
+D(2022-05-09T08:07Z)
+D(2022-05-09T08:07-00:00)
+D(2022-05-09T08:07-00:00)

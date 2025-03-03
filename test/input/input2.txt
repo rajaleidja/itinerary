@@ -1,0 +1,143 @@
+1. Departure: (JFK, KJFK), (#JFK, ##KJFK), (*#JFK, *##KJFK), (John F. Kennedy International Airport, New York)
+   Destination: (SFO, KSFO), (#SFO, ##KSFO), (*#SFO, *##KSFO), (San Francisco International Airport, San Francisco)
+   Flight: DL143
+   Departure Time: 2024-03-01T09:00:00-05:00, D(2024-03-01T09:00:00-05:00), T12(2024-03-01T09:00:00-05:00), T24(2024-03-01T09:00:00-05:00) 
+   Arrival Time: 2024-03-01T12:00:00-08:00, D(2024-03-01T12:00:00-08:00), T12(2024-03-01T12:00:00-08:00), T24(2024-03-01T12:00:00-08:00)
+
+2. Departure: (SFO, KSFO), (#SFO, ##KSFO), (*#SFO, *##KSFO), (San Francisco International Airport, San Francisco)
+   Destination: (HNL, PHNL), (#HNL, ##PHNL), (*#HNL, *##PHNL), (Daniel K. Inouye International Airport, Honolulu)
+   Flight: HA89
+   Departure Time: 2024-03-01T15:00:00-08:00, D(2024-03-01T15:00:00-08:00), T12(2024-03-01T15:00:00-08:00), T24(2024-03-01T15:00:00-08:00)
+   Arrival Time: 2024-03-01T19:30:00-10:00, D(2024-03-01T19:30:00-10:00), T12(2024-03-01T19:30:00-10:00), T24(2024-03-01T19:30:00-10:00)
+
+3. Departure: (HNL, PHNL), (#HNL, ##PHNL), (*#HNL, *##PHNL), (Daniel K. Inouye International Airport, Honolulu)
+   Destination: (SYD, YSSY), (#SYD, ##YSSY), (*#SYD, *##YSSY), (Sydney Kingsford Smith Airport, Sydney)
+   Flight: QF3
+   Departure Time: 2024-03-02T01:30:00-10:00, D(2024-03-02T01:30:00-10:00), T12(2024-03-02T01:30:00-10:00), T24(2024-03-02T01:30:00-10:00)
+   Arrival Time: 2024-03-02T07:00:00+11:00, D(2024-03-02T07:00:00+11:00), T12(2024-03-02T07:00:00+11:00), T24(2024-03-02T07:00:00+11:00)
+
+4. Departure: (SYD, YSSY), (#SYD, ##YSSY), (*#SYD, *##YSSY), (Sydney Kingsford Smith Airport, Sydney)
+   Destination: (NRT, RJAA), (#NRT, ##RJAA), (*#NRT, *##RJAA), (Narita International Airport, Tokyo)
+   Flight: NH880
+   Departure Time: 2024-03-02T14:00:00+11:00, D(2024-03-02T14:00:00+11:00), T12(2024-03-02T14:00:00+11:00), T24(2024-03-02T14:00:00+11:00)
+   Arrival Time: 2024-03-02T19:30:00+09:00, D(2024-03-02T19:30:00+09:00), T12(2024-03-02T19:30:00+09:00), T24(2024-03-02T19:30:00+09:00)
+
+5. Departure: (NRT, RJAA), (#NRT, ##RJAA), (*#NRT, *##RJAA), (Narita International Airport, Tokyo)
+   Destination: (PEK, ZBAA), (#PEK, ##ZBAA), (*#PEK, *##ZBAA), (Beijing Capital International Airport, Beijing)
+   Flight: CA183
+   Departure Time: 2024-03-03T01:00:00+09:00, D(2024-03-03T01:00:00+09:00), T12(2024-03-03T01:00:00+09:00), T24(2024-03-03T01:00:00+09:00)
+   Arrival Time: 2024-03-03T03:30:00+08:00, D(2024-03-03T03:30:00+08:00), T12(2024-03-03T03:30:00+08:00), T24(2024-03-03T03:30:00+08:00)
+
+6. Departure: (PEK, ZBAA), (#PEK, ##ZBAA), (*#PEK, *##ZBAA), (Beijing Capital International Airport, Beijing)
+   Destination: (IST, LTFM), (#IST, ##LTFM), (*#IST, *##LTFM), (Istanbul Airport, Istanbul)
+   Flight: TK12
+   Departure Time: 2024-03-03T09:00:00+08:00, D(2024-03-03T09:00:00+08:00), T12(2024-03-03T09:00:00+08:00), T24(2024-03-03T09:00:00+08:00)
+   Arrival Time: 2024-03-03T14:30:00+03:00, D(2024-03-03T14:30:00+03:00), T12(2024-03-03T14:30:00+03:00), T24(2024-03-03T14:30:00+03:00)
+
+7. Departure: (IST, LTFM), (#IST, ##LTFM), (*#IST, *##LTFM), (Istanbul Airport, Istanbul)
+   Destination: (ATH, LGAV), (#ATH, ##LGAV), (*#ATH, *##LGAV), (Athens International Airport, Athens)
+   Flight: A3967
+   Departure Time: 2024-03-03T18:00:00+03:00, D(2024-03-03T18:00:00+03:00), T12(2024-03-03T18:00:00+03:00), T24(2024-03-03T18:00:00+03:00)
+   Arrival Time: 2024-03-03T20:00:00+02:00, D(2024-03-03T20:00:00+02:00), T12(2024-03-03T20:00:00+02:00), T24(2024-03-03T20:00:00+02:00)
+
+8. Departure: (ATH, LGAV), (#ATH, ##LGAV), (*#ATH, *##LGAV), (Athens International Airport, Athens)
+   Destination: (FCO, LIRF), (#FCO, ##LIRF), (*#FCO, *##LIRF), (Leonardo da Vinci-Fiumicino Airport, Rome)
+   Flight: AZ710
+   Departure Time: 2024-03-04T01:00:00+02:00, D(2024-03-04T01:00:00+02:00), T12(2024-03-04T01:00:00+02:00), T24(2024-03-04T01:00:00+02:00)
+   Arrival Time: 2024-03-04T02:30:00+01:00, D(2024-03-04T02:30:00+01:00), T12(2024-03-04T02:30:00+01:00), T24(2024-03-04T02:30:00+01:00)
+
+9. Departure: (FCO, LIRF), (#FCO, ##LIRF), (*#FCO, *##LIRF), (Leonardo da Vinci-Fiumicino Airport, Rome)
+   Destination: (LHR, EGLL), (#LHR, ##EGLL), (*#LHR, *##EGLL), (London Heathrow Airport, London)
+   Flight: BA560
+   Departure Time: 2024-03-04T07:00:00+01:00, D(2024-03-04T07:00:00+01:00), T12(2024-03-04T07:00:00+01:00), T24(2024-03-04T07:00:00+01:00)
+   Arrival Time: 2024-03-04T09:30:00+00:00, D(2024-03-04T09:30:00+00:00), T12(2024-03-04T09:30:00+00:00), T24(2024-03-04T09:30:00+00:00)
+
+10. Departure: (LHR, EGLL), (#LHR, ##EGLL), (*#LHR, *##EGLL), (London Heathrow Airport, London)
+    Destination: (JFK, KJFK), (#JFK, ##KJFK), (*#JFK, *##KJFK), (John F. Kennedy International Airport, New York)
+    Flight: VS9
+    Departure Time: 2024-03-04T15:00:00+00:00, D(2024-03-04T15:00:00+00:00), T12(2024-03-04T15:00:00+00:00), T24(2024-03-04T15:00:00+00:00)
+    Arrival Time: 2024-03-04T18:00:00-05:00, D(2024-03-04T18:00:00-05:00), T12(2024-03-04T18:00:00-05:00), T24(2024-03-04T18:00:00-05:00)
+
+11. Departure: (JFK, KJFK), (#JFK, ##KJFK), (*#JFK, *##KJFK), (John F. Kennedy International Airport, New York)
+    Destination: (MIA, KMIA), (#MIA, ##KMIA), (*#MIA, *##KMIA), (Miami International Airport, Miami)
+    Flight: AA123
+    Departure Time: 2024-03-05T10:00:00-05:00, D(2024-03-05T10:00:00-05:00), T12(2024-03-05T10:00:00-05:00), T24(2024-03-05T10:00:00-05:00)
+    Arrival Time: 2024-03-05T13:00:00-05:00, D(2024-03-05T13:00:00-05:00), T12(2024-03-05T13:00:00-05:00), T24(2024-03-05T13:00:00-05:00)
+
+12. Departure: (MIA, KMIA), (#MIA, ##KMIA), (*#MIA, *##KMIA), (Miami International Airport, Miami)
+    Destination: (PTY, MPTO), (#PTY, ##MPTO), (*#PTY, *##MPTO), (Tocumen International Airport, Panama City)
+    Flight: CM401
+    Departure Time: 2024-03-05T16:00:00-05:00, D(2024-03-05T16:00:00-05:00), T12(2024-03-05T16:00:00-05:00), T24(2024-03-05T16:00:00-05:00)
+    Arrival Time: 2024-03-05T17:30:00-05:00, D(2024-03-05T17:30:00-05:00), T12(2024-03-05T17:30:00-05:00), T24(2024-03-05T17:30:00-05:00)
+
+13. Departure: (PTY, MPTO), (#PTY, ##MPTO), (*#PTY, *##MPTO), (Tocumen International Airport, Panama City)
+    Destination: (BOG, SKBO), (#BOG, ##SKBO), (*#BOG, *##SKBO), (El Dorado International Airport, Bogotá)
+    Flight: AV457
+    Departure Time: 2024-03-05T20:00:00-05:00, D(2024-03-05T20:00:00-05:00), T12(2024-03-05T20:00:00-05:00), T24(2024-03-05T20:00:00-05:00)
+    Arrival Time: 2024-03-05T22:00:00-05:00, D(2024-03-05T22:00:00-05:00), T12(2024-03-05T22:00:00-05:00), T24(2024-03-05T22:00:00-05:00)
+
+14. Departure: (BOG, SKBO), (#BOG, ##SKBO), (*#BOG, *##SKBO), (El Dorado International Airport, Bogotá)
+    Destination: (UIO, SEQM), (#UIO, ##SEQM), (*#UIO, *##SEQM), (Mariscal Sucre International Airport, Quito)
+    Flight: XL141
+    Departure Time: 2024-03-06T01:00:00-05:00, D(2024-03-06T01:00:00-05:00), T12(2024-03-06T01:00:00-05:00), T24(2024-03-06T01:00:00-05:00)
+    Arrival Time: 2024-03-06T02:30:00-05:00, D(2024-03-06T02:30:00-05:00), T12(2024-03-06T02:30:00-05:00), T24(2024-03-06T02:30:00-05:00)
+
+15. Departure: (UIO, SEQM), (#UIO, ##SEQM), (*#UIO, *##SEQM), (Mariscal Sucre International Airport, Quito)
+    Destination: (LIM, SPJC), (#LIM, ##SPJC), (*#LIM, *##SPJC), (Jorge Chávez International Airport, Lima)
+    Flight: LA204
+    Departure Time: 2024-03-06T05:00:00-05:00, D(2024-03-06T05:00:00-05:00), T12(2024-03-06T05:00:00-05:00), T24(2024-03-06T05:00:00-05:00)
+    Arrival Time: 2024-03-06T06:30:00-05:00, D(2024-03-06T06:30:00-05:00), T12(2024-03-06T06:30:00-05:00), T24(2024-03-06T06:30:00-05:00)
+
+16. Departure: (LIM, SPJC), (#LIM, ##SPJC), (*#LIM, *##SPJC), (Jorge Chávez International Airport, Lima)
+    Destination: (SCL, SCEL), (#SCL, ##SCEL), (*#SCL, *##SCEL), (Arturo Merino Benítez International Airport, Santiago)
+    Flight: LA501
+    Departure Time: 2024-03-06T09:00:00-05:00, D(2024-03-06T09:00:00-05:00), T12(2024-03-06T09:00:00-05:00), T24(2024-03-06T09:00:00-05:00)
+    Arrival Time: 2024-03-06T12:00:00-03:00, D(2024-03-06T12:00:00-03:00), T12(2024-03-06T12:00:00-03:00), T24(2024-03-06T12:00:00-03:00)
+
+17. Departure: (SCL, SCEL), (#SCL, ##SCEL), (*#SCL, *##SCEL), (Arturo Merino Benítez International Airport, Santiago)
+    Destination: (EZE, SAEZ), (#EZE, ##SAEZ), (*#EZE, *##SAEZ), (Ministro Pistarini International Airport, Buenos Aires)
+    Flight: AR136
+    Departure Time: 2024-03-06T15:00:00-03:00, D(2024-03-06T15:00:00-03:00), T12(2024-03-06T15:00:00-03:00), T24(2024-03-06T15:00:00-03:00)
+    Arrival Time: 2024-03-06T18:00:00-03:00, D(2024-03-06T18:00:00-03:00), T12(2024-03-06T18:00:00-03:00), T24(2024-03-06T18:00:00-03:00)
+
+18. Departure: (EZE, SAEZ), (#EZE, ##SAEZ), (*#EZE, *##SAEZ), (Ministro Pistarini International Airport, Buenos Aires)
+    Destination: (GRU, SBGR), (#GRU, ##SBGR), (*#GRU, *##SBGR), (São Paulo/Guarulhos–Governador André Franco Montoro International Airport, São Paulo)
+    Flight: JJ8080
+    Departure Time: 2024-03-06T21:00:00-03:00, D(2024-03-06T21:00:00-03:00), T12(2024-03-06T21:00:00-03:00), T24(2024-03-06T21:00:00-03:00)
+    Arrival Time: 2024-03-06T22:30:00-03:00, D(2024-03-06T22:30:00-03:00), T12(2024-03-06T22:30:00-03:00), T24(2024-03-06T22:30:00-03:00)
+
+19. Departure: (GRU, SBGR), (#GRU, ##SBGR), (*#GRU, *##SBGR), (São Paulo/Guarulhos–Governador André Franco Montoro International Airport, São Paulo)
+    Destination: (JNB, FAOR), (#JNB, ##FAOR), (*#JNB, *##FAOR), (O.R. Tambo International Airport, Johannesburg)
+    Flight: SA223
+    Departure Time: 2024-03-07T01:00:00-03:00, D(2024-03-07T01:00:00-03:00), T12(2024-03-07T01:00:00-03:00), T24(2024-03-07T01:00:00-03:00)
+    Arrival Time: 2024-03-07T06:30:00+02:00, D(2024-03-07T06:30:00+02:00), T12(2024-03-07T06:30:00+02:00), T24(2024-03-07T06:30:00+02:00)
+
+20. Departure: JNB, #JNB, ##, *#JNB, *## (O.R. Tambo International Airport, Johannesburg)
+    Destination: (CPT, FACT), (#CPT, ##FACT), (*#CPT, *##FACT), (Cape Town International Airport, Cape Town)
+    Flight: BA59
+    Departure Time: 2024-03-07T09:00:00+02:00, D(2024-03-07T09:00:00+02:00), T12(2024-03-07T09:00:00+02:00), T24(2024-03-07T09:00:00+02:00)
+    Arrival Time: 2024-03-07T11:30:00+02:00, D(2024-03-07T11:30:00+02:00), T12(2024-03-07T11:30:00+02:00), T24(2024-03-07T11:30:00+02:00)
+
+21. Departure: (CPT, FACT), (#CPT, ##FACT), (*#CPT, *##FACT), (Cape Town International Airport, Cape Town)
+    Destination: (DXB, OMDB), (#DXB, ##OMDB), (*#DXB, *##OMDB), (Dubai International Airport, Dubai)
+    Flight: EK761
+    Departure Time: 2024-03-07T14:00:00+02:00, D(2024-03-07T14:00:00+02:00), T12(2024-03-07T14:00:00+02:00), T24(2024-03-07T14:00:00+02:00)
+    Arrival Time: 2024-03-07T19:30:00+04:00, D(2024-03-07T19:30:00+04:00), T12(2024-03-07T19:30:00+04:00), T24(2024-03-07T19:30:00+04:00)
+
+22. Departure: (DXB, OMDB), (#DXB, ##OMDB), (*#DXB, *##OMDB), (Dubai International Airport, Dubai)
+    Destination: (BKK, VTBS), (#BKK, ##VTBS), (*#BKK, *##VTBS), (Suvarnabhumi Airport, Bangkok)
+    Flight: TG676
+    Departure Time: 2024-03-08T01:00:00+04:00, D(2024-03-08T01:00:00+04:00), T12(2024-03-08T01:00:00+04:00), T24(2024-03-08T01:00:00+04:00)
+    Arrival Time: 2024-03-08T05:30:00+07:00, D(2024-03-08T05:30:00+07:00), T12(2024-03-08T05:30:00+07:00), T24(2024-03-08T05:30:00+07:00)
+
+23. Departure: (BKK, VTBS), (#BKK, ##VTBS), (*#BKK, *##VTBS), (Suvarnabhumi Airport, Bangkok)
+    Destination: (HND, RJTT), (#HND, ##RJTT), (*#HND, *##RJTT), (Haneda Airport, Tokyo)
+    Flight: NH807
+    Departure Time: 2024-03-08T09:00:00+07:00, D(2024-03-08T09:00:00+07:00), T12(2024-03-08T09:00:00+07:00), T24(2024-03-08T09:00:00+07:00)
+    Arrival Time: 2024-03-08T13:30:00+09:00, D(2024-03-08T13:30:00+09:00), T12(2024-03-08T13:30:00+09:00), T24(2024-03-08T13:30:00+09:00)
+
+24. Departure: (HND, RJTT), (#HND, ##RJTT), (*#HND, *##RJTT), (Haneda Airport, Tokyo)
+    Destination: (LAX, KLAX), (#LAX, ##KLAX), (*#LAX, *##KLAX), (Los Angeles International Airport, Los Angeles)
+    Flight: JL62
+    Departure Time: 2024-03-08T18:00:00+09:00, D(2024-03-08T18:00:00+09:00), T12(2024-03-08T18:00:00+09:00), T24(2024-03-08T18:00:00+09:00)
+    Arrival Time: 2024-03-08T12:00:00-08:00, D(2024-03-08T12:00:00-08:00), T12(2024-03-08T12:00:00-08:00), T24(2024-03-08T12:00:00-08:00)

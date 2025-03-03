@@ -1,0 +1,5 @@
+Some text with \v line break character.
+More text with \f line break character.
+Another line with \r line break character.
+text \t text
+another \\ something

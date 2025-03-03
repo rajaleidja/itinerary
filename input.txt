@@ -1,0 +1,93 @@
+Your flight departs from *#HAJ, and your destination is ##EDDW.
+
+*##AGGH *#HIR
+
+##AGGH #HI R - airports
+*##AGGH *#HIR - cities
+
+D##AGGH d#HIR - airports - fail
+
+#DDD ##DDDD - no
+*#DDD *##DDDD - no
+1 2  3   4     5
+tab tab     tabtab          tabtabtab
+space space  spacespace   spacespacespace
+
+Your flight departs from #HAJ, and your destination is ##EDDW.
+Your flight departs from *#HAJ, and your destination is *##EDDW.
+Your flight departs from #HIR, and your destination is #HAJ.
+Your flight departs from #PNP, and your destination is ##AYKV.
+Your flight departs from #AHJ, and your destination is ##ZUHY.
+
+Your flight departs from #ATL, and your destination is ##KATL.
+
+
+some text
+D(2022-05-09T08:07Z)
+D(2022-05-09T08:07-00:00)
+D(2022-05-09T08:07-00:00)
+D(2022-05-09T08:07Z+00:00)
+D(2002-07-31T23:59Z)
+T12(2069-04-24T19:18-02:00)
+T13(2080-05-04T14:54Z)
+T12(1980-02-17T03:30+11:00)
+T12(2029-09-04T03:09Z)
+T25(2032-07-17T04:08+13:00)
+T24(2084-04-13T17:54Z)
+T24(2024-07-23T15:29-11:00)
+T24(2042-09-01T21:43Z)
+something 
+
+slash v
+\v
+slash v
+
+slash t
+\t
+slash t
+==
+slash r
+\r
+slash r
+
+slash f
+\f
+slash f
+
+
+something
+something
+
+
+
+
+something
+
+
+DATES DATES DATES DATES
+
+D(2022-05-09T08:07Z)
+T12(2069-04-24T19:18-02:00)
+T12(2080-05-04T14:54Z)
+T12(1980-02-17T03:30+11:00)
+T12(2029-09-04T03:09Z)
+T24(2032-07-17T04:08+13:00)
+T24(2084-04-13T17:54Z)
+T24(2024-07-23T15:29-11:00)
+T24(2042-09-01T21:43Z)
+
+DATES DATESdfdfdfdfdfdfdfdf
+
+dates D(2022-05-09T08:07Z) dates T24(2032-07-17T04:08+13:00) datesD(2022-05-09T08:07Z) D(2022-05-09T08:07Z)dates datesD(2022-05-09T08:07Z)dates
+
+
+Your flight departs from #GKA, and your destination is ##AYMD.
+Your flight departs from #LAX, and your destination is ##KLAX.
+Your flight departs from #JFK, and your destination is ##KJFK.
+Your flight departs from #CDG, and your destination is ##LFPG.
+Your flight departs from #PEK, and your destination is ##ZBAA.
+Your flight departs from #ORD, and your destination is ##KORD.
+Your flight departs from #AMS, and your destination is ##EHAM.
+Your flight departs from #ICN, and your destination is ##RKSI.
+Your flight departs from #MUC, and your destination is ##EDDM.
+Your flight departs from #SSYD, and your destination is ##YSSY.
